@@ -78,8 +78,9 @@ p {
   list-style-type: disc;
 }
 
-span {
+a {
   color: #0C51A7;
+  text-decoration: none;
 }
 
 .list {
